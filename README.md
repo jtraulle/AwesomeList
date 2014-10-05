@@ -1,19 +1,21 @@
 AwesomeList
 ===========
 
-A list of awesome repos from Github
+A list of awesome repos from Github based on my Github stars :wink:
 
 -----
 
-## Frameworks
 
 
 
-### Frontend
+
+## Frontend
+
+### Frameworks
 
 #### Javascript Web Application Framework
 
-* angular/angular.js
+* [angular/angular.js](https://github.com/angular/angular.js) [:earth_africa:](https://angularjs.org/) - HTML enhanced for web apps
 * emberjs/ember.js
 
 #### Layout framework (CSS + extra JS)
@@ -23,7 +25,12 @@ A list of awesome repos from Github
 * twbs/ratchet
 *
 
-### Backend
+### Charting library
+
+* []() [:earth_africa:]() - 
+
+## Backend
+
 
 ## Discussions/Forums
 * discourse/discourse
